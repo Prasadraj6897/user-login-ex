@@ -57,7 +57,7 @@ class ListUserComponent extends Component {
                     <button className="btn btn-primary" onClick={this.addUser}>
                         {" "}
                         Add User
-                    </button>
+                    </button><br></br>
                     <button className="btn btn-primary" onClick={this.LoginUser}>
                         {" "}
                         Login User
